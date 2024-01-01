@@ -1,7 +1,9 @@
 #1 create a ubuntu lxc.
 
 git clone https://github.com/nightmarebd/ubuntu-guacamole-lxc
+
 cd ubuntu-guacamole-lxc/
+
 sh guacamole\ root.sh 
 
 #follow the installer, reboot
